@@ -1,6 +1,7 @@
 """
     Autor: Isaac Sánchez Verdiguel
     Materia: Web Security
+    Grupo: 6CV2
 """
 
 import scapy.all as scapy 

@@ -13,7 +13,7 @@ Lo anterior es ejecutado en un entorno seguro con una máquina virtual de Kali L
 ## Authors
 
 - Isaac Sánchez Verdiguel [@iscko5](https://github.com/iscko5)
-
+- Grupo: 6CV2 Web Security
 
 
 ## Instalación
